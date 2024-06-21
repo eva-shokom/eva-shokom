@@ -21,6 +21,10 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+## Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/eva_shokom)
+[![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:eva.shokom@yandex.ru)
+
 <!--
 **eva-shokom/eva-shokom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
